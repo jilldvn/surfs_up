@@ -1,3 +1,10 @@
+#Add unwanted file
+app.py
+climate_analysis.ipynb
+test.py
+test_flask.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
